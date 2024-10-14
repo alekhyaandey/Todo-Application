@@ -5,3 +5,4 @@ Mark tasks as completed
 Delete tasks
 Save tasks to local storage for persistence between sessions
 Built using HTML, CSS (with Bootstrap), and JavaScript, this project provides a clean, responsive UI with smooth task management functionality.
+
